@@ -1,5 +1,5 @@
 {
-  "name": "vue3-qrcode",
+  "name": "vue-next-qrcode",
   "private": false,
   "version": "0.0.0",
   "type": "module",
@@ -21,8 +21,19 @@
     "vite": "^4.4.5",
     "vue-tsc": "^1.8.5"
   },
+  "description": "<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->",
   "keywords": [
     "vue3",
     "qrcode"
-  ]
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Ray",
+    "url": "https://github.com/XiaoDaiGua-Ray"
+  },
+  "homepage": "https://github.com/XiaoDaiGua-Ray/vue3-qrcode#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XiaoDaiGua-Ray/vue3-qrcode"
+  }
 }

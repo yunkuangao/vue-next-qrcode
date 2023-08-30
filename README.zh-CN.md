@@ -10,23 +10,23 @@
 
 [English](https://github.com/XiaoDaiGua-Ray/vue3-qrcode/blob/main/README.md) | 简体中文
 
-About vue3 & qrcode component
+vue3.x & qrcode 的组件
 
 </div>
 
-## ✨ Features
+## ✨ 特性
 
 - 🛸 支持丰富的二维码配置属性（LOGO、GIF、BackgroundImage...）
 - 🎯 使用 TypeScript 构建，提供完整的类型支持
 - 🏟️ 涵盖大部分需求场景
 
-## 📦 Install
+## 📦 安装
 
 ```bash
 npm i vue-next-qrcode
 ```
 
-## 🤹‍♀️ Usage
+## 🤹‍♀️ 使用
 
 ```vue
 <script setup lang="ts">
@@ -38,19 +38,19 @@ import Vue3QRcode from 'vue-next-qrcode'
 </template>
 ```
 
-## 🪴 Project Activity
+## 🪴 项目活动
 
-### Contributors
+### 贡献者
 
-Thanks for all their contributions 🐝 !
+感谢他们的所做的一切贡献 🐝 ！
 
 <a href="https://github.com/XiaoDaiGua-Ray/vue3-qrcode/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=XiaoDaiGua-Ray/vue3-qrcode" />
 </a>
 
-## 🌸 Thanks
+## 🌸 感谢
 
-This project is based on [awesome-qr](https://github.com/sumimakito/Awesome-qr.js) package!
+该项目基于 [awesome-qr](https://github.com/sumimakito/Awesome-qr.js) 封装！
 
 ## 📄 License
 
