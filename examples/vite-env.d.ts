@@ -6,4 +6,4 @@ declare module '*.vue' {
   export default component
 }
 
-declare module 'vue3-qrcode'
+declare module 'vue-next-qrcode'

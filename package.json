@@ -6,11 +6,14 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
+    "build:types": "vue-tsc --noEmit && vite build --mode fullTypes",
     "preview": "vite preview"
   },
+  "types": "./lib/index.d.ts",
   "dependencies": {
     "naive-ui": "^2.34.4",
-    "vue": "^3.3.4"
+    "vue": "^3.3.4",
+    "vue-next-qrcode": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.5.7",
@@ -19,6 +22,7 @@
     "sass": "^1.66.1",
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
+    "vite-plugin-dts": "^3.5.3",
     "vue-tsc": "^1.8.5"
   },
   "description": "<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->",

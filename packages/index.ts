@@ -10,6 +10,13 @@ const install = (app: App<Element>) => {
   })
 }
 
+// @ts-ignore
+if (typeof window !== 'undefined' && window.Vue) {
+  // @ts-ignore
+  install(window.Vue)
+}
+
 export default {
   install,
+  QRCode,
 }

@@ -7,3 +7,4 @@ QRCode.install = (app: App<Element>) => {
 }
 
 export default QRCode
+export { QRCodeStatus, QRCodeLevel, QRCodeRenderResponse } from './src/types'
