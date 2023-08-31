@@ -13,6 +13,7 @@
   "dependencies": {
     "naive-ui": "^2.34.4",
     "vue": "^3.3.4",
+    "awesome-qr": "^2.1.5-rc.0",
     "vue-next-qrcode": "^1.0.0"
   },
   "devDependencies": {
